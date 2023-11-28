@@ -5,6 +5,6 @@
 
 /frontend-backup/
 
-/face_recognition/
+# /face_recognition/
 
 **/node_modules/

@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NDMxZTMwYmZlZTg4MzQwNGViMjNhNiIsImlhdCI6MTY5ODg5NzQ1NiwiZXhwIjoxNzA2NjczNDU2fQ.TOW8vLx9SmE3KaG4DESWC1XlB6hJMVkHb-WPfijHOKU",
+    "user": {
+        "role": "teacher",
+        "status": "active",
+        "createdAt": "2023-11-02T03:56:59.475Z",
+        "_id": "65431e30bfee883404eb23a6",
+        "name": "Administrator",
+        "teacherId": "TC003",
+        "email": "admin@gmail.com",
+        "phoneNumber": "0986407145",
+        "password": "$2a$12$Ap7MSbQfvfySxS54ggXHwuqAUFnK8q1dj5bK6WBW./C3WgCt6FGpm",
+        "__v": 0
+    }
+}

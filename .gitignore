@@ -1,0 +1,10 @@
+# DOCKER - CI/CD
+**/Dockerfile
+**/docker-compose.yml
+**/.dockerignore
+
+/frontend-backup/
+
+/face_recognition/
+
+**/node_modules/
